@@ -1,0 +1,5 @@
+.form-box{
+    display: flex;
+    flex-direction: row;
+    font-size: 24px;
+}
